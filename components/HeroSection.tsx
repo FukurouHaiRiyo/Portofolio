@@ -10,7 +10,7 @@ const HeroSection = () => {
       <div className="flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 my-10 py-16 sm:py-32 md:py-52 md:flex-row md:space-x-4 md:text-left">
         <div className="md:mt-2 md:w-1/2">
           <Image
-            src="/thirteen.svg"
+            src="/Screenshot from 2023-02-02 17-30-52.png"
             alt=""
             width={325}
             height={325}
