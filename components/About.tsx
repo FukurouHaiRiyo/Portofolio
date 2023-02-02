@@ -38,7 +38,7 @@ const About = () => {
                                     <br/>
 
                                     <p>
-                                          I'm currently a student from University of Petroleum and Gases in Ploiesti,
+                                          I&#39;m currently a student from University of Petroleum and Gases in Ploiesti,
                                           in the 3rd and final year of Computer Science. Worked during summer as 
                                           a web developer, I mainly used Angular and React, I pretty much like to 
                                           work with React. 
