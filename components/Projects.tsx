@@ -35,7 +35,15 @@ const projects = [
             image: "/fuku.png",
             github: "https://replit.com/@FukurouHaiRiyo/Fuku",
             link: "https://Fuku.fukurouhairiyo.repl.co"
-      }
+      },
+
+      {
+        name: "PinMe",
+        description: "This website was made in an atempt to clone Pinterest, it uses google login and has different categories for each pin posted, as well as comments, save button and download functionality.",
+        image: "/fuku.png",
+        github: "https://github.com/FukurouHaiRiyo/PinMe",
+        link: "https://pinme-share.netlify.app/"
+  }
 ]
 
 const Projects = () => {
