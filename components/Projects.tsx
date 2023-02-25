@@ -32,7 +32,7 @@ const projects = [
       {
             name: "FukurouHaiRyio - website about my sona",
             description: "This website is about my sona I got a while ago, it tells a bit of his story, how he looks and much more",
-            image: "/fuku.png",
+            image: "/pinme.png",
             github: "https://replit.com/@FukurouHaiRiyo/Fuku",
             link: "https://Fuku.fukurouhairiyo.repl.co"
       },
