@@ -43,7 +43,15 @@ const projects = [
         image: "/pinme.png",
         github: "https://github.com/FukurouHaiRiyo/PinMe",
         link: "https://pinme-share.netlify.app/"
-  }
+      },
+
+      {
+        name: "FurryTV",
+        description: "This website is an Youtube clone. This platform was made for furries, letting them choose between some categories they might be interested in. The videos are taken from Youtube itself.",
+        image: "/furrytv.png",
+        github: "",
+        link: "https://furrytv.netlify.app"
+      }
 ]
 
 const Projects = () => {
