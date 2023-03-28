@@ -49,7 +49,7 @@ const projects = [
         name: "FurryTV",
         description: "This website is an Youtube clone. This platform was made for furries, letting them choose between some categories they might be interested in. The videos are taken from Youtube itself.",
         image: "/furrytv.png",
-        github: "",
+        github: "https://github.com/FukurouHaiRiyo/FurryTv",
         link: "https://furrytv.netlify.app"
       }
 ]
