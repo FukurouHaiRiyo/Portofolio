@@ -30,14 +30,6 @@ const projects = [
       },
 
       {
-            name: "FukurouHaiRyio - website about my sona",
-            description: "This website is about my sona I got a while ago, it tells a bit of his story, how he looks and much more",
-            image: "/fuku.png",
-            github: "https://replit.com/@FukurouHaiRiyo/Fuku",
-            link: "https://Fuku.fukurouhairiyo.repl.co"
-      },
-
-      {
         name: "PinMe",
         description: "This website was made in an atempt to clone Pinterest, it uses google login and has different categories for each pin posted, as well as comments, save button and download functionality.",
         image: "/pinme.png",
@@ -51,6 +43,14 @@ const projects = [
         image: "/furrytv.png",
         github: "https://github.com/FukurouHaiRiyo/FurryTv",
         link: "https://furrytv.netlify.app"
+      },
+
+      {
+        name: 'Sona management',
+        description: 'This website was made for people with multiple sonas and need help managing them. There can be added sona`s name, birthday and description',
+        image: '/sona.png',
+        github: 'https://github.com/FukurouHaiRiyo/SonaManagementSystem',
+        link: 'https://sona-management.netlify.app'
       }
 ]
 
