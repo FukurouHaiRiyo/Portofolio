@@ -6,6 +6,13 @@ import {BsGithub, BsArrowUpRightSquare} from 'react-icons/bs';
 
 const projects = [
       {
+        name: 'Rainman Consulting',
+        description: 'Acest site este dedicat unei firme de consultanta in logistica si IT. Inca se afla in constructie',
+        image: '/rainman.png',
+        github: 'https://github.com/FukurouHaiRiyo/rainman',
+        link: 'https://www.rainmanconsulting.ro',
+      },
+      {
         name: "PinMe",
         description: "This website was made in an atempt to clone Pinterest, it uses google login and has different categories for each pin posted, as well as comments, save button and download functionality.",
         image: "/pinme.png",
