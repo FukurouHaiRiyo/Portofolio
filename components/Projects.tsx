@@ -6,6 +6,30 @@ import {BsGithub, BsArrowUpRightSquare} from 'react-icons/bs';
 
 const projects = [
       {
+        name: "PinMe",
+        description: "This website was made in an atempt to clone Pinterest, it uses google login and has different categories for each pin posted, as well as comments, save button and download functionality.",
+        image: "/pinme.png",
+        github: "https://github.com/FukurouHaiRiyo/PinMe",
+        link: "https://pinme-share.netlify.app/"
+      },
+
+      {
+        name: "FurryTV",
+        description: "This website is an Youtube clone. This platform was made for furries, letting them choose between some categories they might be interested in. The videos are taken from Youtube itself.",
+        image: "/furrytv.png",
+        github: "https://github.com/FukurouHaiRiyo/FurryTv",
+        link: "https://furrytv.netlify.app"
+      },
+
+      {
+        name: 'Sona management',
+        description: 'This website was made for people with multiple sonas and need help managing them. There can be added sona`s name, birthday and description',
+        image: '/sona.png',
+        github: 'https://github.com/FukurouHaiRiyo/SonaManagementSystem',
+        link: 'https://sona-management.netlify.app'
+      },
+
+      {
             name: "Cats and Dogs classifier",
             description: "Cats and Dogs classifier is a machine learning app that can tell wether the animal in a photo is a dog or a cat",
             image: "/CatsDogs.png",
@@ -28,30 +52,6 @@ const projects = [
         github: "https://github.com/FukurouHaiRiyo/OpenCV-Image-Processing-And-Face-Detection/tree/main/ImageProcessingAndFaceDetection",
         link: ""
       },
-
-      {
-        name: "PinMe",
-        description: "This website was made in an atempt to clone Pinterest, it uses google login and has different categories for each pin posted, as well as comments, save button and download functionality.",
-        image: "/pinme.png",
-        github: "https://github.com/FukurouHaiRiyo/PinMe",
-        link: "https://pinme-share.netlify.app/"
-      },
-
-      {
-        name: "FurryTV",
-        description: "This website is an Youtube clone. This platform was made for furries, letting them choose between some categories they might be interested in. The videos are taken from Youtube itself.",
-        image: "/furrytv.png",
-        github: "https://github.com/FukurouHaiRiyo/FurryTv",
-        link: "https://furrytv.netlify.app"
-      },
-
-      {
-        name: 'Sona management',
-        description: 'This website was made for people with multiple sonas and need help managing them. There can be added sona`s name, birthday and description',
-        image: '/sona.png',
-        github: 'https://github.com/FukurouHaiRiyo/SonaManagementSystem',
-        link: 'https://sona-management.netlify.app'
-      }
 ]
 
 const Projects = () => {
