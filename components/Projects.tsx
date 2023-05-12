@@ -59,6 +59,14 @@ const projects = [
         github: "https://github.com/FukurouHaiRiyo/OpenCV-Image-Processing-And-Face-Detection/tree/main/ImageProcessingAndFaceDetection",
         link: ""
       },
+
+      {
+        name: "Detecting cancerous cells in lungs using CNN",
+        description: "In this project, I'm using CNN to detect cancerous cells in lungs",
+        image: "CNN.png",
+        github: "https://github.com/FukurouHaiRiyo/LicentaCNN",
+        link: "",
+      }
 ]
 
 const Projects = () => {
