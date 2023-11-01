@@ -38,8 +38,8 @@ const About = () => {
                                     <br/>
 
                                     <p>
-                                          I&#39;m currently a student from University of Petroleum and Gases in Ploiesti,
-                                          in the 3rd and final year of Computer Science. Worked during summer as 
+                                          I&#39;m currently a data entry analyst working remotely for IntelligentBee Web. 
+                                          I worked during summer as 
                                           a web developer, I mainly used Angular and React, I pretty much like to 
                                           work with React. 
                                     </p>
