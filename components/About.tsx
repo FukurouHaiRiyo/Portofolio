@@ -28,11 +28,10 @@ const About = () => {
                                     </h1>
 
                                     <p>
-                                          Hey, my name is Andrei and I am a{" "}
+                                          Hey, my name is Andrei and I am currently working {" "}
                                           <span className="font-bold">{"highly ambitious"}</span>
                                           <span className="font-bold">{" self-motivated"}</span>
-                                          <span className="font-bold">{" driven"}</span> student
-                                          based in Ploiesti. 
+                                          <span className="font-bold">{" driven"}</span> as a data entry analyst.
                                     </p>
 
                                     <br/>
