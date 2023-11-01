@@ -32,7 +32,6 @@ const About = () => {
                                           <span className="font-bold">{"highly ambitious"}</span>
                                           <span className="font-bold">{" self-motivated"}</span>
                                           <span className="font-bold">{" driven"}</span> person.
-                                          I am currently working as a data entry analyst for IntelligentBee Web.
                                     </p>
 
                                     <br/>
