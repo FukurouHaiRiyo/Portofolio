@@ -22,9 +22,9 @@ const HeroSection = () => {
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
             <span className="font-semibold text-teal-600">
-              student{" "}
+              data entry analyst working remotly{" "}
             </span>
-            based in Romania, Ploiesti.
+            Currently based in Romania, Ploiesti.
           </p>
           <Link
             to="projects"
