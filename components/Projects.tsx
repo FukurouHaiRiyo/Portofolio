@@ -63,7 +63,7 @@ const projects = [
       {
         name: "Detecting cancerous cells in lungs using CNN",
         description: "In this project, I'm using CNN to detect cancerous cells in lungs",
-        image: "CNN.png",
+        image: "/CNN.png",
         github: "https://github.com/FukurouHaiRiyo/LicentaCNN",
         link: "",
       }
