@@ -39,9 +39,8 @@ const About = () => {
 
                                     <p>
                                           I&#39;m currently a data entry analyst working remotely for IntelligentBee Web. 
-                                          I worked during summer as 
-                                          a web developer, I mainly used Angular and React, I pretty much like to 
-                                          work with React. 
+                                          I worked during summer as a web developer, where I mainly used Angular and React. After experiencing 
+                                          both frameworks I pretty much say I like to work with React more. 
                                     </p>
 
                                     <br/>
