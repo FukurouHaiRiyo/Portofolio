@@ -22,7 +22,7 @@ const HeroSection = () => {
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
             <span className="font-semibold text-teal-600">
-              data entry analyst working remotly{""}
+              data entry analyst working remotly{" "}
             </span>
             Currently based in Romania, Ploiesti.
           </p>
