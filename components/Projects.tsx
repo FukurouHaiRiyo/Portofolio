@@ -6,11 +6,11 @@ import {BsGithub, BsArrowUpRightSquare} from 'react-icons/bs';
 
 const projects = [
       {
-        name: 'Rainman Consulting',
-        description: 'Acest site este dedicat unei firme de consultanta in logistica si IT. Inca se afla in constructie',
-        image: '/rainman.png',
-        github: 'https://github.com/FukurouHaiRiyo/rainman',
-        link: 'https://www.rainmanconsulting.ro',
+        name: 'QSS (Quality-Safety-Security)',
+        description: 'Acest site este dedicat unei aplicatii pentru verificarea numerelor de telefon, a mail-urilor si a site-urilor web.',
+        image: '/qss.png',
+        github: 'https://github.com/FukurouHaiRiyo/qssWebsite',
+        link: 'qss-website.vercel.app',
       },
       {
         name: "PinMe",
